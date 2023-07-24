@@ -1,1 +1,1 @@
-FROM python:3.7-slim
+FROM python:3.12.0b2-slim-bullseye
